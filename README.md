@@ -2,16 +2,17 @@ Global patterns and predictors of PFAS contamination in odontocetes
 
 [Database_Final.csv](https://github.com/user-attachments/files/27428565/Database_Final.csv)
 
-#Overview:
-This repository contains the dataset in the analysis of 
-"Global patterns and predictors of PFAS contamination in odontocetes"
+ Overview:
 
+This repository contains the dataset in the analysis of
+
+"Global patterns and predictors of PFAS contamination in odontocetes"
 by Lavinia Stokes, Karen A. Stockin, Gavin Stevenson, Jesuina de Araujo, Frédérik Saltré and Katharina J. Peters.
 
 The dataset was compiled from published peer-reviewed literature and government reporting. 
 It includes standardised PFAS concentrations in liver tissues across multiple species, locations and years, see below:
 
-#Dataset description:
+ Dataset description:
 
 Total samples: 713
 Number of species: 33
