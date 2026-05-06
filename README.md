@@ -1,8 +1,9 @@
 Global patterns and predictors of PFAS contamination in odontocetes
 
 #Overview:
-This repository contains the dataset and R scripts used in the analysis of 
-"Global patterns and predictors of PFAS contamination in odontocetes"
+This repository contains the dataset in the analysis of 
+"Global patterns and predictors of PFAS contamination in odontocetes"[Database_Final.csv](https://github.com/user-attachments/files/27428565/Database_Final.csv)
+
 by Lavinia Stokes, Karen A. Stockin, Gavin Stevenson, Jesuina de Araujo, Frédérik Saltré and Katharina J. Peters.
 
 The dataset was compiled from published peer-reviewed literature and government reporting. 
