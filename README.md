@@ -1,8 +1,10 @@
 Global patterns and predictors of PFAS contamination in odontocetes
 
+[Database_Final.csv](https://github.com/user-attachments/files/27428565/Database_Final.csv)
+
 #Overview:
 This repository contains the dataset in the analysis of 
-"Global patterns and predictors of PFAS contamination in odontocetes"[Database_Final.csv](https://github.com/user-attachments/files/27428565/Database_Final.csv)
+"Global patterns and predictors of PFAS contamination in odontocetes"
 
 by Lavinia Stokes, Karen A. Stockin, Gavin Stevenson, Jesuina de Araujo, Frédérik Saltré and Katharina J. Peters.
 
